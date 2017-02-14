@@ -2,21 +2,22 @@ Please answer the following questions:
 
 
 1. Who are you? :) (What is your full name?)
-
+Zachary Devita
 
 2. What is your GitHub username?
-
+zdevita
 
 3. Where are you from (your hometown)?
-
+Toronto, Canada.	
 
 4. What is your favorite local restaurant?
-
+Spring Chicken
 
 5. What is the last good book you read (title, author)?
-
+The Dark Tower by Stephen King
 
 6. Which song is in heavy rotation on your MP3 player/iPod/iPhone/stream?
-
+Old Man by Neil Young
 
 7. If you were to build a web site for fun, what would it be about?
+Investigative news, international news and political news
